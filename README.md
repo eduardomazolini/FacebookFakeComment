@@ -1,0 +1,2 @@
+# FacebookFakeComment
+Esta extensão do chrome cria um painel que ajuda a editar comentários do Facebook. É possível copiar um comentário, editar ele no painel e colar em outra publicação. Também é possível apagar um comentário. Nada disso fica salvo no Facebook o máximo que pode fazer é dar um print da sua própria tela. É apenas uma edição do HTML exibido. Isso é só para mostrar como prints não são evidencias.
